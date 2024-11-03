@@ -12,6 +12,7 @@ Repository ini berisi kode dan materi praktikum untuk mata kuliah **Struktur Dat
 Mata kuliah Struktur Data membahas konsep dasar tentang bagaimana mengatur, menyimpan, dan mengakses data secara efisien. Pada mata kuliah ini, Anda akan mempelajari berbagai macam struktur data seperti linked list, stack, queue, tree, graph, dan lainnya.
 
 ## Daftar Praktikum
+
 - **ADT (Abstract Data Type)**: konsep yang membantu kita fokus pada apa yang dilakukan oleh tipe data tertentu, bukan bagaimana cara kerjanya secara internal.
 - **Struct**: Beberapa variabel (dapat berbeda tipe) yang dikelompokkan menjadi satu dengan sebuah nama baru.
 - **Pointer**: sebuah variabel yang menyimpan alamat memori dari variabel lain.
@@ -26,7 +27,5 @@ Mata kuliah Struktur Data membahas konsep dasar tentang bagaimana mengatur, meny
 3. Menerapkan struktur data untuk memecahkan masalah praktis.
 
 ## Tech Stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
