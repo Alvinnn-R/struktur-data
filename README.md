@@ -2,7 +2,7 @@
 
 Repository ini berisi kode dan materi praktikum untuk mata kuliah **Struktur Data**, kelas F081.
 
-## Informasi Pengguna
+## Informasi Mahasiswa
 
 - **Nama**: Alvin Rama Saputra ([@alvinnn-r](https://github.com/Alvinnn-R))
 - **NPM**: 23081010236
